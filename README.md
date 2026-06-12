@@ -97,6 +97,10 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="28"/>
 </a>
 
+<a href="[mailto:i@assaf.sbs](https://www.figma.com/@assaf9)">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" width="28"/>
+</a>
+
 <a href="mailto:i@assaf.sbs">
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="28"/>
 </a>
