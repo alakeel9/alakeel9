@@ -108,15 +108,15 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 <p align="center">
 
 <a href="https://github.com/alakeel9">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/assafalakeel">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40"/>
 </a>
 
 <a href="mailto:i@assaf.sbs">
-<img src="https://img.shields.io/badge/Email-i@assaf.sbs-16A34A?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/>
 </a>
 
 </p>
