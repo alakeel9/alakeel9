@@ -116,7 +116,7 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 </a>
 
 <a href="mailto:i@assaf.sbs">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" width="40"/>
 </a>
 
 </p>
