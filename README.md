@@ -80,4 +80,8 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="mailto:i@assaf.sbs">
+<img src="https://img.shields.io/badge/Email-i@assaf.sbs-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
 </p>
