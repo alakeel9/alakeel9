@@ -58,14 +58,23 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 
 ## 🎓 Certifications
 
-- Google Project Management Professional Certificate  
-- Product Management Capstone  
-- Google UX Design Professional Certificate  
-- Microsoft UX Design Professional Certificate  
-- Google Digital Marketing & E-Commerce  
-- Google Data Analytics Professional Certificate  
-- Adobe Content Creation & Graphic Design  
+<p align="center">
 
+<img src="https://img.shields.io/badge/Google-Project%20Management-4285F4?style=for-the-badge&logo=google">
+
+<img src="https://img.shields.io/badge/Product%20Management-Capstone-FF6B6B?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Google-UX%20Design-4D96FF?style=for-the-badge&logo=google">
+
+<img src="https://img.shields.io/badge/Microsoft-UX%20Design-0078D4?style=for-the-badge&logo=microsoft">
+
+<img src="https://img.shields.io/badge/Google-Digital%20Marketing-F4B400?style=for-the-badge&logo=google">
+
+<img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=googleanalytics">
+
+<img src="https://img.shields.io/badge/Adobe-Creative%20Suite-FF0000?style=for-the-badge&logo=adobe">
+
+</p>
 ---
 
 ## 🌐 Connect
