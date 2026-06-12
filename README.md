@@ -34,28 +34,20 @@ Co-Founder & Product Manager at [SHIFT Pro](https://github.com/shift-gym), focus
 ![Data Analysis](https://img.shields.io/badge/Data%20Interpretation-111827?style=flat-square&logoColor=white)
 ![Insights](https://img.shields.io/badge/Insight%20Generation-374151?style=flat-square&logoColor=white)
 
----
-
 ### Communication & Writing
 ![Writing](https://img.shields.io/badge/Academic%20Writing-1F2937?style=flat-square&logoColor=white)
 ![Reports](https://img.shields.io/badge/Report%20Writing-111827?style=flat-square&logoColor=white)
 ![Presentation](https://img.shields.io/badge/Presentation%20Skills-374151?style=flat-square&logoColor=white)
-
----
 
 ### Product & Strategy
 ![Product](https://img.shields.io/badge/Product%20Thinking-1F2937?style=flat-square&logoColor=white)
 ![Strategy](https://img.shields.io/badge/Strategy-111827?style=flat-square&logoColor=white)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-374151?style=flat-square&logoColor=white)
 
----
-
 ### Digital & No-Code
 ![No Code](https://img.shields.io/badge/No--Code%20Tools-1F2937?style=flat-square&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square&logoColor=white)
 ![Integrations](https://img.shields.io/badge/Digital%20Integration-374151?style=flat-square&logoColor=white)
-
----
 
 ### Collaboration
 ![Teamwork](https://img.shields.io/badge/Teamwork-1F2937?style=flat-square&logoColor=white)
