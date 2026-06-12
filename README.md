@@ -86,16 +86,19 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 <p align="center">
 
 <img src="https://img.shields.io/badge/Google-Project%20Management-2563EB?style=for-the-badge&logo=google">
-
 <img src="https://img.shields.io/badge/Product%20Management-Capstone-111827?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/Google-UX%20Design-7C3AED?style=for-the-badge&logo=google">
+<br>
 
+<img src="https://img.shields.io/badge/Google-UX%20Design-7C3AED?style=for-the-badge&logo=google">
 <img src="https://img.shields.io/badge/Microsoft-UX%20Design-2563EB?style=for-the-badge&logo=microsoft">
 
-<img src="https://img.shields.io/badge/Google-Digital%20Marketing-0EA5E9?style=for-the-badge&logo=google">
+<br>
 
+<img src="https://img.shields.io/badge/Google-Digital%20Marketing-0EA5E9?style=for-the-badge&logo=google">
 <img src="https://img.shields.io/badge/Google-Data%20Analytics-22C55E?style=for-the-badge&logo=googleanalytics">
+
+<br>
 
 <img src="https://img.shields.io/badge/Adobe-Creative%20Design-7C3AED?style=for-the-badge&logo=adobe">
 
