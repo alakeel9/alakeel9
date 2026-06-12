@@ -17,11 +17,7 @@
 
 ## 🔥 About Me
 
-- 🎯 Product Strategy & Roadmapping  
-- 🧠 UX & User Experience Design  
-- 📊 Digital Growth & Analytics  
-- ⚙️ Platform & Integration Management  
-- 🏟️ Sports Technology & Community Building  
+Co-Founder & Product Manager @ SHIFT Pro focused on building digital sports experiences and fan communities through product strategy, UX design, and digital growth.
 
 ---
 
@@ -69,16 +65,6 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 - Google Digital Marketing & E-Commerce  
 - Google Data Analytics Professional Certificate  
 - Adobe Content Creation & Graphic Design  
-
----
-
-## 🌱 Current Focus
-
-- Sports Technology  
-- Digital Communities  
-- Fan Engagement  
-- Product Strategy  
-- UX & Experience Design  
 
 ---
 
