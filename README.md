@@ -1,10 +1,10 @@
-<h1 align="center">🌟 Assaf Alakeel</h1>
+<h1 align="center" style="color:#111827;">🌟 Assaf Alakeel</h1>
 
-<h3 align="center">
-Co-Founder & Product Manager at <a href="https://github.com/shift-gym">SHIFT Pro</a>
+<h3 align="center" style="color:#374151;">
+Co-Founder & Product Manager at <a href="https://github.com/shift-gym" style="color:#374151;">SHIFT Pro</a>
 </h3>
 
-<p align="center">
+<p align="center" style="color:#6B7280;">
 Building digital sports experiences and fan communities through product thinking, research, and UX.
 </p>
 
@@ -12,10 +12,10 @@ Building digital sports experiences and fan communities through product thinking
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Product%20Thinking-2563EB?style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/UX%20Design-7C3AED?style=for-the-badge">
-<img src="https://img.shields.io/badge/Research%20Mindset-111827?style=for-the-badge">
-<img src="https://img.shields.io/badge/Digital%20Growth-0EA5E9?style=for-the-badge">
+<img src="https://img.shields.io/badge/Product%20Thinking-6B7280?style=for-the-badge">
+<img src="https://img.shields.io/badge/UX%20Design-6B7280?style=for-the-badge">
+<img src="https://img.shields.io/badge/Research%20Mindset-6B7280?style=for-the-badge">
+<img src="https://img.shields.io/badge/Digital%20Growth-6B7280?style=for-the-badge">
 
 </p>
 
@@ -29,38 +29,38 @@ Co-Founder & Product Manager at [SHIFT Pro](https://github.com/shift-gym), focus
 
 ## 🧠 Skills
 
-### 📊 Research & Analysis
-![Research](https://img.shields.io/badge/Research%20Thinking-111827?style=flat-square)
-![Data Analysis](https://img.shields.io/badge/Data%20Interpretation-1F2937?style=flat-square)
-![Insights](https://img.shields.io/badge/Insight%20Generation-374151?style=flat-square)
+### Research & Analysis
+![Research](https://img.shields.io/badge/Research%20Thinking-1F2937?style=flat-square&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Interpretation-111827?style=flat-square&logoColor=white)
+![Insights](https://img.shields.io/badge/Insight%20Generation-374151?style=flat-square&logoColor=white)
 
 ---
 
-### 📝 Communication & Writing
-![Writing](https://img.shields.io/badge/Academic%20Writing-7C3AED?style=flat-square)
-![Reports](https://img.shields.io/badge/Report%20Writing-8B5CF6?style=flat-square)
-![Presentation](https://img.shields.io/badge/Presentation%20Skills-6366F1?style=flat-square)
+### Communication & Writing
+![Writing](https://img.shields.io/badge/Academic%20Writing-1F2937?style=flat-square&logoColor=white)
+![Reports](https://img.shields.io/badge/Report%20Writing-111827?style=flat-square&logoColor=white)
+![Presentation](https://img.shields.io/badge/Presentation%20Skills-374151?style=flat-square&logoColor=white)
 
 ---
 
-### 🎯 Product & Strategy
-![Product](https://img.shields.io/badge/Product%20Thinking-2563EB?style=flat-square)
-![Strategy](https://img.shields.io/badge/Strategy-1D4ED8?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-0EA5E9?style=flat-square)
+### Product & Strategy
+![Product](https://img.shields.io/badge/Product%20Thinking-1F2937?style=flat-square&logoColor=white)
+![Strategy](https://img.shields.io/badge/Strategy-111827?style=flat-square&logoColor=white)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-374151?style=flat-square&logoColor=white)
 
 ---
 
-### ⚙️ Digital & No-Code
-![No Code](https://img.shields.io/badge/No--Code%20Tools-16A34A?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-22C55E?style=flat-square)
-![Integrations](https://img.shields.io/badge/Digital%20Integration-10B981?style=flat-square)
+### Digital & No-Code
+![No Code](https://img.shields.io/badge/No--Code%20Tools-1F2937?style=flat-square&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-111827?style=flat-square&logoColor=white)
+![Integrations](https://img.shields.io/badge/Digital%20Integration-374151?style=flat-square&logoColor=white)
 
 ---
 
-### 🤝 Collaboration
-![Teamwork](https://img.shields.io/badge/Teamwork-F59E0B?style=flat-square)
-![Communication](https://img.shields.io/badge/Stakeholder%20Communication-F97316?style=flat-square)
-![Leadership](https://img.shields.io/badge/Leadership-EF4444?style=flat-square)
+### Collaboration
+![Teamwork](https://img.shields.io/badge/Teamwork-1F2937?style=flat-square&logoColor=white)
+![Communication](https://img.shields.io/badge/Stakeholder%20Communication-111827?style=flat-square&logoColor=white)
+![Leadership](https://img.shields.io/badge/Leadership-374151?style=flat-square&logoColor=white)
 
 ---
 
@@ -83,23 +83,13 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 
 ## 🎓 Certifications
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/Google-Project%20Management-2563EB?style=for-the-badge&logo=google">
-
-<img src="https://img.shields.io/badge/Product%20Management-Capstone-111827?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/Google-UX%20Design-7C3AED?style=for-the-badge&logo=google">
-
-<img src="https://img.shields.io/badge/Microsoft-UX%20Design-2563EB?style=for-the-badge&logo=microsoft">
-
-<img src="https://img.shields.io/badge/Google-Digital%20Marketing-0EA5E9?style=for-the-badge&logo=google">
-
-<img src="https://img.shields.io/badge/Google-Data%20Analytics-22C55E?style=for-the-badge&logo=googleanalytics">
-
-<img src="https://img.shields.io/badge/Adobe-Creative%20Design-7C3AED?style=for-the-badge&logo=adobe">
-
-</p>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" width="18"/> Project Management Professional Certificate  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" width="18"/> UX Design Professional Certificate  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" width="18"/> Digital Marketing & E-Commerce Professional Certificate  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googleanalytics.svg" width="18"/> Data Analytics Professional Certificate  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg" width="18"/> UX Design Professional Certificate  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" width="18"/> Content Creation & Graphic Design  
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/target.svg" width="18"/> Product Management Capstone  
 
 ---
 
