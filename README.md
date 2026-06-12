@@ -73,15 +73,13 @@ Co-Founder & Product Manager at [SHIFT Pro](https://github.com/shift-gym), focus
 A sports-focused digital platform designed to enhance fan engagement and build stronger sports communities.
 
 **My Role:**
-- Co-Founder  
-- Product Manager  
-- Product Strategy  
-- UX Thinking  
-- Community Growth  
+- Co-Founder  - Product Manager  - Product Strategy  - UX Thinking - Community Growth  
 
 ---
 
 ## 🎓 Certifications
+
+<div style="padding-left:12px; border-left:3px solid #D4AF37; line-height:1.9;">
 
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" width="18"/> Project Management Professional Certificate  
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/google.svg" width="18"/> UX Design Professional Certificate  
@@ -90,6 +88,8 @@ A sports-focused digital platform designed to enhance fan engagement and build s
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoft.svg" width="18"/> UX Design Professional Certificate  
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobe.svg" width="18"/> Content Creation & Graphic Design  
 <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/target.svg" width="18"/> Product Management Capstone  
+
+</div>
 
 ---
 
