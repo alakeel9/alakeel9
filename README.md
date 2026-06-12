@@ -1,6 +1,6 @@
 <h1 align="center">🌟 Assaf Alakeel</h1>
 
-<h3 align="center">Co-Founder & Product Manager @ SHIFT Pro</h3>
+<h3 align="center">Co-Founder & Product Manager at <a href="https://github.com/shift-gym">SHIFT Pro</a></h3>
 
 <p align="center">
 🚀 Building digital sports experiences & fan communities
@@ -17,7 +17,7 @@
 
 ## 🔥 About Me
 
-Co-Founder & Product Manager @ SHIFT Pro focused on building digital sports experiences and fan communities through product strategy, UX design, and digital growth.
+Co-Founder & Product Manager at [SHIFT Pro](https://github.com/shift-gym), focused on building digital sports experiences and fan communities through product strategy, UX design, and digital growth.
 
 ---
 
