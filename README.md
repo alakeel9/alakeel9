@@ -1,96 +1,69 @@
-<h1 align="center">🌟 Assaf Alakeel</h1>
+<h1 align="center">Assaf Alakeel</h1>
 
 <h3 align="center">Co-Founder & Product Manager at <a href="https://github.com/shift-gym">SHIFT Pro</a></h3>
 
 <p align="center">
-🚀 Building digital sports experiences & fan communities
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Product%20Manager-FF6B6B?style=for-the-badge">
-<img src="https://img.shields.io/badge/UX-4D96FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/Sports%20Tech-6BCB77?style=for-the-badge">
-<img src="https://img.shields.io/badge/Co--Founder-FFD93D?style=for-the-badge">
+Building digital sports experiences and fan communities
 </p>
 
 ---
 
-## 🔥 About Me
+## About Me
 
-Co-Founder & Product Manager at [SHIFT Pro](https://github.com/shift-gym), focused on building digital sports experiences and fan communities through product strategy, UX design, and digital growth.
-
----
-
-## 🧩 Core Skills
-
-### 🎯 Product Management
-![Strategy](https://img.shields.io/badge/Product%20Strategy-black?style=flat-square&logo=target)
-![Roadmap](https://img.shields.io/badge/Roadmap-black?style=flat-square&logo=trello)
-
-### 🎨 UX & Design
-![UX](https://img.shields.io/badge/UX%20Design-purple?style=flat-square&logo=figma)
-![Journey](https://img.shields.io/badge/User%20Journey-blue?style=flat-square)
-
-### 📈 Growth & Analytics
-![Marketing](https://img.shields.io/badge/Digital%20Marketing-orange?style=flat-square&logo=google)
-![Analytics](https://img.shields.io/badge/Analytics-green?style=flat-square&logo=googleanalytics)
+Co-Founder & Product Manager at SHIFT Pro, focused on designing and building digital products that improve sports fan engagement and community experiences through product strategy, UX design, and growth.
 
 ---
 
-## ⭐ Featured Project
+## Core Skills
 
-### 🏆 SHIFT Pro
+### Product Management
+- Product Strategy
+- Roadmapping
+- Requirements Definition
 
-👉 **GitHub Organization:**  
-[![SHIFT Pro](https://img.shields.io/badge/SHIFT%20Pro-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shift-gym)
+### UX & Experience
+- UX Design Principles
+- User Journey Mapping
+- Experience Design
 
-A sports-focused digital platform designed to enhance fan engagement and build stronger sports communities.
-
-**My Role:**
-- Co-Founder  
-- Product Manager  
-- Product Strategy  
-- UX Design  
-- Community Growth  
-- Digital Operations  
+### Growth & Analytics
+- Digital Marketing
+- Product Analytics
+- E-Commerce Growth
 
 ---
 
-## 🎓 Certifications
+## Featured Project
 
-<p align="center">
+### SHIFT Pro
 
-<img src="https://img.shields.io/badge/Google-Project%20Management-4285F4?style=for-the-badge&logo=google">
+GitHub Organization: https://github.com/shift-gym
 
-<img src="https://img.shields.io/badge/Product%20Management-Capstone-FF6B6B?style=for-the-badge">
+A sports-focused digital platform designed to enhance fan engagement and build stronger communities.
 
-<img src="https://img.shields.io/badge/Google-UX%20Design-4D96FF?style=for-the-badge&logo=google">
+Role:
+- Co-Founder
+- Product Manager
+- Product Strategy
+- UX Design
+- Growth
 
-<img src="https://img.shields.io/badge/Microsoft-UX%20Design-0078D4?style=for-the-badge&logo=microsoft">
-
-<img src="https://img.shields.io/badge/Google-Digital%20Marketing-F4B400?style=for-the-badge&logo=google">
-
-<img src="https://img.shields.io/badge/Google-Data%20Analytics-34A853?style=for-the-badge&logo=googleanalytics">
-
-<img src="https://img.shields.io/badge/Adobe-Creative%20Suite-FF0000?style=for-the-badge&logo=adobe">
-
-</p>
 ---
 
-## 🌐 Connect
+## Certifications
 
-<p align="center">
+- Google Project Management Professional Certificate  
+- Product Management Capstone  
+- Google UX Design Professional Certificate  
+- Microsoft UX Design Professional Certificate  
+- Google Digital Marketing & E-Commerce Professional Certificate  
+- Google Data Analytics Professional Certificate  
+- Adobe Content Creation & Graphic Design  
 
-<a href="https://github.com/alakeel9">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
+---
 
-<a href="https://www.linkedin.com/in/assafalakeel">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+## Connect
 
-<a href="mailto:i@assaf.sbs">
-<img src="https://img.shields.io/badge/Email-i@assaf.sbs-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
+GitHub: https://github.com/alakeel9  
+LinkedIn: https://www.linkedin.com/in/assafalakeel  
+Email: i@assaf.sbs
